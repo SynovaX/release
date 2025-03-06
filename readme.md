@@ -7,9 +7,8 @@
 👍 Most scripts work without issues  
 
 ## 🤔 How do you get SynovaX?
-🔗 Click [here](https://github.com/SynovaX/release/releases/tag/New) or go to Releases and download "SynovaX.exe"  
-📣 A Bootstrapper (automatically downloads all files needed) will soon be uploaded into Releases  
-🎮 Some people may already have the Bootstrapper.  
+🔗 Click [here](https://github.com/SynovaX/release/releases/tag/Bootstrapper) or go to Releases and download "SynovaX-Bootstrapper.exe"  
+📣 A Bootstrapper (automatically downloads all files needed) is available
 
 ## 🐀 Is SynovaX a virus?
 ❎ No, in simple terms it is not a virus  
